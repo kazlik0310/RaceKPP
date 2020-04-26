@@ -1,13 +1,11 @@
 package com.company;
-
-import javax.swing.*;
+import com.company.MainMenuWindow;
 
 public class Main {
 
+    static int number = 0;
     public static void main(String[] args) {
         new MainMenuWindow();
-
-
 
     }
 }
